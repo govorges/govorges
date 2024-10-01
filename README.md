@@ -1,4 +1,11 @@
-## Hi there 👋
+Hello! I'm `govorges`. I'm a `software developer` based in `Fort Lauderdale FL, USA.`
+
+## ⚡ Projects of Note ⚡
+- ### OpenBroadcast | `Not complete`
+A website which allows users to upload videos and compiles them into MRSS HLS feeds for viewing on the OpenBroadcast Roku channel. Spans across multiple repositories -- one for each of its services.
+- ### bunnyapi-docker | `Not complete`
+A Dockerized service OpenBroadcast utilizes to communicate with its CDN (Bunny) while keeping any sensitive authentication away from the outside world. The end goal of this repository is to provide full coverage of the Bunny API, but for now it's limited to what I require for the OpenBroadcast project.
+  
 
 <!--
 **govorges/govorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...  
 - ⚡ Fun fact: ...
 -->
